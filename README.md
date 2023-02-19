@@ -2,6 +2,12 @@
 
 meson example with c++.
 
+## Setup
+
+```sh
+$ meson setup builddir
+```
+
 ## Build
 
 ```sh
